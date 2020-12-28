@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: a945c97ec6fd2354bb2ba631bba43440
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6134421028427622431
+    second: balls_0
+  - first:
+      213: 300353140021029200
+    second: balls_1
+  - first:
+      213: 338592883393811448
+    second: balls_2
+  - first:
+      213: -7209212159076336660
+    second: balls_3
+  - first:
+      213: 2023522969545607760
+    second: balls_4
+  - first:
+      213: -5579777447416819038
+    second: balls_5
+  - first:
+      213: -6885498132332409789
+    second: balls_6
+  - first:
+      213: 8020060226805192610
+    second: balls_7
+  - first:
+      213: -3959120327227033700
+    second: balls_8
+  - first:
+      213: -2598005947579844795
+    second: balls_9
+  - first:
+      213: 9112020770366926958
+    second: balls_10
+  - first:
+      213: -8793112832175403279
+    second: balls_11
+  - first:
+      213: 4572233767630987598
+    second: balls_12
+  - first:
+      213: 8937125793816700154
+    second: balls_13
+  - first:
+      213: 561506760059870144
+    second: balls_14
+  - first:
+      213: -828346317538302623
+    second: balls_15
+  - first:
+      213: 5923327962159275664
+    second: balls_16
+  - first:
+      213: -5730682135620675702
+    second: balls_17
+  - first:
+      213: -8019758002448535239
+    second: balls_18
+  - first:
+      213: 2782606687153615571
+    second: balls_19
+  - first:
+      213: 2352372917643210637
+    second: balls_20
+  - first:
+      213: 3327733358637636699
+    second: balls_21
+  - first:
+      213: 3854718008791578914
+    second: balls_22
+  - first:
+      213: 8751997336972860804
+    second: balls_23
+  - first:
+      213: 2658553935469263806
+    second: balls_24
+  - first:
+      213: 6271619802139267275
+    second: balls_25
+  - first:
+      213: -8406902872822111166
+    second: balls_26
+  - first:
+      213: -1038609624430878839
+    second: balls_27
+  - first:
+      213: 9138270944487173698
+    second: balls_28
+  - first:
+      213: -5770635108575522643
+    second: balls_29
+  - first:
+      213: 2654825282057082878
+    second: balls_30
+  - first:
+      213: 163387986052175132
+    second: balls_31
+  - first:
+      213: -7075169905055477075
+    second: balls_32
+  - first:
+      213: -82115167809806106
+    second: balls_33
+  - first:
+      213: 2308480781769728299
+    second: balls_34
+  - first:
+      213: 4149455780157235560
+    second: balls_35
+  - first:
+      213: -4522606285275071080
+    second: balls_36
+  - first:
+      213: 1848921277967919547
+    second: balls_37
+  - first:
+      213: 3561882429295504601
+    second: balls_38
+  - first:
+      213: 3087530686946235444
+    second: balls_39
+  - first:
+      213: -4529226480909210082
+    second: balls_40
+  - first:
+      213: 7309910842501327773
+    second: balls_41
+  - first:
+      213: 6204197046145742393
+    second: balls_42
+  - first:
+      213: -480281977710737249
+    second: balls_43
+  - first:
+      213: -1503397462268748632
+    second: balls_44
+  - first:
+      213: -8592742056890670804
+    second: balls_45
+  - first:
+      213: -7482113346289134885
+    second: balls_46
+  - first:
+      213: -840522555412216742
+    second: balls_47
+  - first:
+      213: -5654528981269977458
+    second: balls_48
+  - first:
+      213: -5769212906505520790
+    second: balls_49
+  - first:
+      213: 3251924072282010703
+    second: balls_50
+  - first:
+      213: 331336796483814435
+    second: balls_51
+  - first:
+      213: -8243162178401699600
+    second: balls_52
+  - first:
+      213: -7593170338696492235
+    second: balls_53
+  - first:
+      213: 8096580221624139507
+    second: balls_54
+  - first:
+      213: -1394681186037136502
+    second: balls_55
+  - first:
+      213: -2059627463254823976
+    second: balls_56
+  - first:
+      213: 7102029907005052793
+    second: balls_57
+  - first:
+      213: -7908936551130929197
+    second: balls_58
+  - first:
+      213: 8233988974659995454
+    second: balls_59
+  - first:
+      213: 1202654823777352519
+    second: balls_60
+  - first:
+      213: 6619317567948696069
+    second: balls_61
+  - first:
+      213: -4230622376514047430
+    second: balls_62
+  - first:
+      213: 7713431605441724457
+    second: balls_63
+  - first:
+      213: -658366025016898398
+    second: balls_64
+  - first:
+      213: -6196847013455546427
+    second: balls_65
+  - first:
+      213: 6197531298738853889
+    second: balls_66
+  - first:
+      213: -3641708374849213865
+    second: balls_67
+  - first:
+      213: -3505545431755253933
+    second: balls_68
+  - first:
+      213: 7251221672976636449
+    second: balls_69
+  - first:
+      213: 5894014790907100815
+    second: balls_70
+  - first:
+      213: 3782363981746660717
+    second: balls_71
+  - first:
+      213: 8424005148788026959
+    second: balls_72
+  - first:
+      213: -1376339616632897083
+    second: balls_73
+  - first:
+      213: -1392873723085627135
+    second: balls_74
+  - first:
+      213: -326061641233215760
+    second: balls_75
+  - first:
+      213: 8658438147382050092
+    second: balls_76
+  - first:
+      213: 5477497277726892691
+    second: balls_77
+  - first:
+      213: -7233309687872949483
+    second: balls_78
+  - first:
+      213: -6620123886859672194
+    second: balls_79
+  - first:
+      213: -4814853087092638226
+    second: balls_80
+  - first:
+      213: 4075149442754518249
+    second: balls_81
+  - first:
+      213: -3668278622166624783
+    second: balls_82
+  - first:
+      213: -7012861085215719520
+    second: balls_83
+  - first:
+      213: 5860097102536697353
+    second: balls_84
+  - first:
+      213: -451759260456236175
+    second: balls_85
+  - first:
+      213: 2037057806729203846
+    second: balls_86
+  - first:
+      213: -6550965643930899512
+    second: balls_87
+  - first:
+      213: 1972881872689716818
+    second: balls_88
+  - first:
+      213: -36971276615476115
+    second: balls_89
+  - first:
+      213: 1795346897150692377
+    second: balls_90
+  - first:
+      213: -3885996376018588333
+    second: balls_91
+  - first:
+      213: -4565070569957133169
+    second: balls_92
+  - first:
+      213: 4469547327323935129
+    second: balls_93
+  - first:
+      213: -5263466506664777147
+    second: balls_94
+  - first:
+      213: -1938051199137018847
+    second: balls_95
+  - first:
+      213: -4468563348326529007
+    second: balls_96
+  - first:
+      213: 8934710579904327805
+    second: balls_97
+  - first:
+      213: -307169301839646754
+    second: balls_98
+  - first:
+      213: 7848412084906838045
+    second: balls_99
+  - first:
+      213: 1713384322579599467
+    second: balls_100
+  - first:
+      213: -3669799383347573681
+    second: balls_101
+  - first:
+      213: -1866198444245936882
+    second: balls_102
+  - first:
+      213: 7272653386927658087
+    second: balls_103
+  - first:
+      213: -1089187577682399023
+    second: balls_104
+  - first:
+      213: 5730134659843109462
+    second: balls_105
+  - first:
+      213: 8533071233374895211
+    second: balls_106
+  - first:
+      213: -811565657626140851
+    second: balls_107
+  - first:
+      213: -6626413185767489002
+    second: balls_108
+  - first:
+      213: -8535007397620362032
+    second: balls_109
+  - first:
+      213: -6722611077260135693
+    second: balls_110
+  - first:
+      213: 7730779569315322416
+    second: balls_111
+  - first:
+      213: -879373116735811166
+    second: balls_112
+  - first:
+      213: 971550656492825608
+    second: balls_113
+  - first:
+      213: 2157514159475893022
+    second: balls_114
+  - first:
+      213: -7713367444401048210
+    second: balls_115
+  - first:
+      213: -8379514193778627408
+    second: balls_116
+  - first:
+      213: 6483723801478781186
+    second: balls_117
+  - first:
+      213: -2561743380686836479
+    second: balls_118
+  - first:
+      213: 4964523898235493304
+    second: balls_119
+  - first:
+      213: -391156617878989158
+    second: balls_120
+  - first:
+      213: -5364045499150536877
+    second: balls_121
+  - first:
+      213: 1984286220522980773
+    second: balls_122
+  - first:
+      213: -771646081664454556
+    second: balls_123
+  - first:
+      213: 5390611925754941401
+    second: balls_124
+  - first:
+      213: -340092995692921543
+    second: balls_125
+  - first:
+      213: 5317958542848023480
+    second: balls_126
+  - first:
+      213: -8754734063959874204
+    second: balls_127
+  - first:
+      213: -6216379403706411493
+    second: balls_128
+  - first:
+      213: -5392389565770526186
+    second: balls_129
+  - first:
+      213: 158275897520964988
+    second: balls_130
+  - first:
+      213: 1767562804933602147
+    second: balls_131
+  - first:
+      213: -347133845561837823
+    second: balls_132
+  - first:
+      213: -3218652344016663700
+    second: balls_133
+  - first:
+      213: 2797359689535331490
+    second: balls_134
+  - first:
+      213: -4108484738843809316
+    second: balls_135
+  - first:
+      213: 3208499199787549028
+    second: balls_136
+  - first:
+      213: 5922257226606149173
+    second: balls_137
+  - first:
+      213: -3515702074214077250
+    second: balls_138
+  - first:
+      213: -2135475284069119029
+    second: balls_139
+  - first:
+      213: -5899862722513684880
+    second: balls_140
+  - first:
+      213: 374569677613514228
+    second: balls_141
+  - first:
+      213: 5474066591435984251
+    second: balls_142
+  - first:
+      213: -6557249456548594753
+    second: balls_143
+  - first:
+      213: -141064995754825608
+    second: balls_144
+  - first:
+      213: 2006057676714477168
+    second: balls_145
+  - first:
+      213: 8302596643127994151
+    second: balls_146
+  - first:
+      213: -2617681835707368703
+    second: balls_147
+  - first:
+      213: 1963872114893126431
+    second: balls_148
+  - first:
+      213: -7026920466520473823
+    second: balls_149
+  - first:
+      213: 8419287382028501045
+    second: balls_150
+  - first:
+      213: 5276709502617101852
+    second: balls_151
+  - first:
+      213: 6785294551727588000
+    second: balls_152
+  - first:
+      213: 7884796599331184440
+    second: balls_153
+  - first:
+      213: -3203839724463176482
+    second: balls_154
+  - first:
+      213: -8448500757566073576
+    second: balls_155
+  - first:
+      213: 2495825048749921808
+    second: balls_156
+  - first:
+      213: -8648667012077802074
+    second: balls_157
+  - first:
+      213: -3841114860735185175
+    second: balls_158
+  - first:
+      213: 6028547385019247063
+    second: balls_159
+  - first:
+      213: -2517404325029659417
+    second: balls_160
+  - first:
+      213: -2000020277364279422
+    second: balls_161
+  - first:
+      213: 5409438531253439881
+    second: balls_162
+  - first:
+      213: -4510939166794726695
+    second: balls_163
+  - first:
+      213: 5731860282720723390
+    second: balls_164
+  - first:
+      213: 3729742668361733183
+    second: balls_165
+  - first:
+      213: -4951125311378100042
+    second: balls_166
+  - first:
+      213: -2310772531559065480
+    second: balls_167
+  - first:
+      213: 1190250467172962858
+    second: balls_168
+  - first:
+      213: 7548428923044888824
+    second: balls_169
+  - first:
+      213: -8248223220060739716
+    second: balls_170
+  - first:
+      213: 3724453412659218617
+    second: balls_171
+  - first:
+      213: -3176356124039396856
+    second: balls_172
+  - first:
+      213: -7564868639205261555
+    second: balls_173
+  - first:
+      213: -5745449211942144381
+    second: balls_174
+  - first:
+      213: -3008435803984428345
+    second: balls_175
+  - first:
+      213: -1599668635965520951
+    second: balls_176
+  - first:
+      213: 8684310380120724402
+    second: balls_177
+  - first:
+      213: -7923004018200914800
+    second: balls_178
+  - first:
+      213: 8953612782086463122
+    second: balls_179
+  - first:
+      213: -7526411402542932686
+    second: balls_180
+  - first:
+      213: 2084871153751273329
+    second: balls_181
+  - first:
+      213: -5169105301910164350
+    second: balls_182
+  - first:
+      213: -7879258745751531802
+    second: balls_183
+  - first:
+      213: -5747802729576788194
+    second: balls_184
+  - first:
+      213: 3630858434155175002
+    second: balls_185
+  - first:
+      213: 550347676106452483
+    second: balls_186
+  - first:
+      213: -8421107426416815218
+    second: balls_187
+  - first:
+      213: 4369077403459030073
+    second: balls_188
+  - first:
+      213: -2018203023256971869
+    second: balls_189
+  - first:
+      213: 8248033427760741838
+    second: balls_190
+  - first:
+      213: 1083394629247271144
+    second: balls_191
+  - first:
+      213: 1627733544171277627
+    second: balls_192
+  - first:
+      213: -9193944492590969813
+    second: balls_193
+  - first:
+      213: -6580277940410687175
+    second: balls_194
+  - first:
+      213: 3341615725232656521
+    second: balls_195
+  - first:
+      213: 7111515144617342568
+    second: balls_196
+  - first:
+      213: 692303054306373620
+    second: balls_197
+  - first:
+      213: 5539282888232100425
+    second: balls_198
+  - first:
+      213: 3291692708160879950
+    second: balls_199
+  - first:
+      213: 6787603638127315580
+    second: balls_200
+  - first:
+      213: -7861781984074949161
+    second: balls_201
+  - first:
+      213: -6058289299324494393
+    second: balls_202
+  - first:
+      213: -1799400472411471972
+    second: balls_203
+  - first:
+      213: 1820907832705126776
+    second: balls_204
+  - first:
+      213: 8148242107292671926
+    second: balls_205
+  - first:
+      213: -5128960065998653299
+    second: balls_206
+  - first:
+      213: -7697801670228935098
+    second: balls_207
+  - first:
+      213: 4363222304055645368
+    second: balls_208
+  - first:
+      213: 2983416336936335992
+    second: balls_209
+  - first:
+      213: -516507577396572838
+    second: balls_210
+  - first:
+      213: 7557028782323226087
+    second: balls_211
+  - first:
+      213: -5499180324997272152
+    second: balls_212
+  - first:
+      213: 1154141582246115000
+    second: balls_213
+  - first:
+      213: -1161031767185838007
+    second: balls_214
+  - first:
+      213: -4504737368175462097
+    second: balls_215
+  - first:
+      213: 2545642900035092582
+    second: balls_216
+  - first:
+      213: 4196074027785971658
+    second: balls_217
+  - first:
+      213: 5377118385293703304
+    second: balls_218
+  - first:
+      213: 4981461782193026263
+    second: balls_219
+  - first:
+      213: -5794487227751380835
+    second: balls_220
+  - first:
+      213: 4714980076846127591
+    second: balls_221
+  - first:
+      213: -6759700542958219436
+    second: balls_222
+  - first:
+      213: 1988552347306913536
+    second: balls_223
+  - first:
+      213: -528582353441831499
+    second: balls_224
+  - first:
+      213: 7156637531860047972
+    second: balls_225
+  - first:
+      213: 2502598709661227532
+    second: balls_226
+  - first:
+      213: 4435527169049165121
+    second: balls_227
+  - first:
+      213: 1148726006948543684
+    second: balls_228
+  - first:
+      213: 6261286279024263557
+    second: balls_229
+  - first:
+      213: -5757811937565987697
+    second: balls_230
+  - first:
+      213: -328310966922006211
+    second: balls_231
+  - first:
+      213: 525471090762315430
+    second: balls_232
+  - first:
+      213: 7635247024547713111
+    second: balls_233
+  - first:
+      213: 8923680375568470313
+    second: balls_234
+  - first:
+      213: -7608676048550518234
+    second: balls_235
+  - first:
+      213: 2601832480945609688
+    second: balls_236
+  - first:
+      213: -2532689746878330576
+    second: balls_237
+  - first:
+      213: 754028502371400583
+    second: balls_238
+  - first:
+      213: -206592084767952538
+    second: balls_239
+  - first:
+      213: -9068195517589067552
+    second: balls_240
+  - first:
+      213: -246263948927562320
+    second: balls_241
+  - first:
+      213: 110179886689531637
+    second: balls_242
+  - first:
+      213: -4438150911083693925
+    second: balls_243
+  - first:
+      213: -6111012829507038354
+    second: balls_244
+  - first:
+      213: -1417334929607776101
+    second: balls_245
+  - first:
+      213: 1912039991168759893
+    second: balls_246
+  - first:
+      213: -1717703426169488363
+    second: balls_247
+  - first:
+      213: -3097908629530068338
+    second: balls_248
+  - first:
+      213: 3715565933071257421
+    second: balls_249
+  - first:
+      213: -5121368036734682217
+    second: balls_250
+  - first:
+      213: -6319268568833444499
+    second: balls_251
+  - first:
+      213: -4219339821654122472
+    second: balls_252
+  - first:
+      213: 4180361967123706928
+    second: balls_253
+  - first:
+      213: 168911388698246705
+    second: balls_254
+  - first:
+      213: 8443683603486760093
+    second: balls_255
+  - first:
+      213: -2749660846036528595
+    second: balls_256
+  - first:
+      213: 6964722051325274142
+    second: balls_257
+  - first:
+      213: -7142407436721528502
+    second: balls_258
+  - first:
+      213: 7157870441171786907
+    second: balls_259
+  - first:
+      213: -4103416997082283632
+    second: balls_260
+  - first:
+      213: 5627323046506717053
+    second: balls_261
+  - first:
+      213: -563750050661052276
+    second: balls_262
+  - first:
+      213: -4500289527388436079
+    second: balls_263
+  - first:
+      213: 3126982762733158117
+    second: balls_264
+  - first:
+      213: -8909881641950297132
+    second: balls_265
+  - first:
+      213: 4791959071641450582
+    second: balls_266
+  - first:
+      213: -354631604351145621
+    second: balls_267
+  - first:
+      213: 5814309006709650638
+    second: balls_268
+  - first:
+      213: 126154861811965789
+    second: balls_269
+  - first:
+      213: 5576657135833871449
+    second: balls_270
+  - first:
+      213: -2872516929140836827
+    second: balls_271
+  - first:
+      213: -1961857434865261661
+    second: balls_272
+  - first:
+      213: 7704096087646713432
+    second: balls_273
+  - first:
+      213: -3139550939854783441
+    second: balls_274
+  - first:
+      213: -1791807573586704180
+    second: balls_275
+  - first:
+      213: 8725891422467307813
+    second: balls_276
+  - first:
+      213: -4255692698773805689
+    second: balls_277
+  - first:
+      213: -614736972101755919
+    second: balls_278
+  - first:
+      213: 957074867504193393
+    second: balls_279
+  - first:
+      213: 2439782236317064351
+    second: balls_280
+  - first:
+      213: -469746993469209542
+    second: balls_281
+  - first:
+      213: -3173657127107155164
+    second: balls_282
+  - first:
+      213: -3919901275814045318
+    second: balls_283
+  - first:
+      213: 6333319268991717587
+    second: balls_284
+  - first:
+      213: -6803166472910414086
+    second: balls_285
+  - first:
+      213: -7473444846229845826
+    second: balls_286
+  - first:
+      213: -6933541266596515921
+    second: balls_287
+  - first:
+      213: -1489097974993420766
+    second: balls_288
+  - first:
+      213: -319952159878554127
+    second: balls_289
+  - first:
+      213: 2276387424971367818
+    second: balls_290
+  - first:
+      213: -8204709121198833603
+    second: balls_291
+  - first:
+      213: 1612361509167235300
+    second: balls_292
+  - first:
+      213: -4370319226109707610
+    second: balls_293
+  - first:
+      213: -3624812930134427798
+    second: balls_294
+  - first:
+      213: -1266268964669758433
+    second: balls_295
+  - first:
+      213: 7478548235236125711
+    second: balls_296
+  - first:
+      213: 810458290732304644
+    second: balls_297
+  - first:
+      213: -9189793680432869178
+    second: balls_298
+  - first:
+      213: -677773339520053778
+    second: balls_299
+  - first:
+      213: 9161107595798460763
+    second: balls_300
+  - first:
+      213: -2717870509043445361
+    second: balls_301
+  - first:
+      213: 3124919913224744144
+    second: balls_302
+  - first:
+      213: -8134230938143021445
+    second: balls_303
+  - first:
+      213: -8703958126979383131
+    second: balls_304
+  - first:
+      213: 7155173114050101604
+    second: balls_305
+  - first:
+      213: 3995809183004357389
+    second: balls_306
+  - first:
+      213: 1876344205182164909
+    second: balls_307
+  - first:
+      213: -2329860615566966293
+    second: balls_308
+  - first:
+      213: 1741283090317885987
+    second: balls_309
+  - first:
+      213: 8697209721077617362
+    second: balls_310
+  - first:
+      213: 5944645196134760231
+    second: balls_311
+  - first:
+      213: -3953324613042088095
+    second: balls_312
+  - first:
+      213: 6914964291916035688
+    second: balls_313
+  - first:
+      213: -2289390267937049277
+    second: balls_314
+  - first:
+      213: 2035967572491813545
+    second: balls_315
+  - first:
+      213: -4583204915885359528
+    second: balls_316
+  - first:
+      213: 7532085083388095780
+    second: balls_317
+  - first:
+      213: 3978169831567764121
+    second: balls_318
+  - first:
+      213: 7990859639545393217
+    second: balls_319
+  - first:
+      213: 8169965456734615378
+    second: balls_320
+  - first:
+      213: -203351430584902587
+    second: balls_321
+  - first:
+      213: -7094504905200161689
+    second: balls_322
+  - first:
+      213: 6631976123640383529
+    second: balls_323
+  - first:
+      213: 1122978889833751863
+    second: balls_324
+  - first:
+      213: 2395923225622363115
+    second: balls_325
+  - first:
+      213: -7999994104522753644
+    second: balls_326
+  - first:
+      213: -5829890643517559705
+    second: balls_327
+  - first:
+      213: -7499842000655293204
+    second: balls_328
+  - first:
+      213: -7496665679474959185
+    second: balls_329
+  - first:
+      213: -6596973423534967764
+    second: balls_330
+  - first:
+      213: -1851033870866157702
+    second: balls_331
+  - first:
+      213: 3958844077842796434
+    second: balls_332
+  - first:
+      213: 8820785778123713909
+    second: balls_333
+  - first:
+      213: -7356956777299874826
+    second: balls_334
+  - first:
+      213: -2585449663315308419
+    second: balls_335
+  - first:
+      213: -2350144122607191477
+    second: balls_336
+  - first:
+      213: -1081953388091200599
+    second: balls_337
+  - first:
+      213: 4271723916812073660
+    second: balls_338
+  - first:
+      213: 7437723216690830035
+    second: balls_339
+  - first:
+      213: -2551062623436381851
+    second: balls_340
+  - first:
+      213: 2100378534171415177
+    second: balls_341
+  - first:
+      213: -6085766506299422978
+    second: balls_342
+  - first:
+      213: -615521436095752940
+    second: balls_343
+  - first:
+      213: -2340736626521297608
+    second: balls_344
+  - first:
+      213: 8639519505890891079
+    second: balls_345
+  - first:
+      213: -6274621619768771070
+    second: balls_346
+  - first:
+      213: 5915614407054943493
+    second: balls_347
+  - first:
+      213: -1408536054606108411
+    second: balls_348
+  - first:
+      213: 2233309321157247511
+    second: balls_349
+  - first:
+      213: 6329565326100583325
+    second: balls_350
+  - first:
+      213: -5923872063413924026
+    second: balls_351
+  - first:
+      213: 7228839044075068857
+    second: balls_352
+  - first:
+      213: -7818107732402923730
+    second: balls_353
+  - first:
+      213: 401894542760659540
+    second: balls_354
+  - first:
+      213: -7625272940332506627
+    second: balls_355
+  - first:
+      213: 7670119615274228423
+    second: balls_356
+  - first:
+      213: -478316417725677146
+    second: balls_357
+  - first:
+      213: -4877369156315468885
+    second: balls_358
+  - first:
+      213: -827585328591750671
+    second: balls_359
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e792e183982edaa0800000000000000
+      internalID: -6134421028427622431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059602ae6911b2400800000000000000
+      internalID: 300353140021029200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d92afe6ce2b400800000000000000
+      internalID: 338592883393811448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf3d3ccbbb3fb90800000000000000
+      internalID: -7209212159076336660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a0c927b6ff41c10800000000000000
+      internalID: 2023522969545607760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21cf879f5a092b0800000000000000
+      internalID: -5579777447416819038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c06b8fdebc170a0800000000000000
+      internalID: -6885498132332409789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1428
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a756ffb84afc4f60800000000000000
+      internalID: 8020060226805192610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ba98e9016e09c0800000000000000
+      internalID: -3959120327227033700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547b6220b5702fbd0800000000000000
+      internalID: -2598005947579844795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60b3b3fc96647e70800000000000000
+      internalID: 9112020770366926958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8140977698f580800000000000000
+      internalID: -8793112832175403279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e0bd0366d37f30800000000000000
+      internalID: 4572233767630987598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4ec6dfe8c070c70800000000000000
+      internalID: 8937125793816700154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_14
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb595c5c6fdac700800000000000000
+      internalID: 561506760059870144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_15
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1224
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656028b96f1184f0800000000000000
+      internalID: -828346317538302623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e54a00663e33250800000000000000
+      internalID: 5923327962159275664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8717a9c5f68870b0800000000000000
+      internalID: -5730682135620675702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317577569814b090800000000000000
+      internalID: -8019758002448535239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2fa610a0ecd9620800000000000000
+      internalID: 2782606687153615571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_20
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f6f5784be45a020800000000000000
+      internalID: 2352372917643210637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c50dccbdb7e2e20800000000000000
+      internalID: 3327733358637636699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_22
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229b2571b95be7530800000000000000
+      internalID: 3854718008791578914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_23
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1020
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d9e693537557970800000000000000
+      internalID: 8751997336972860804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbbcdbf7b415e420800000000000000
+      internalID: 2658553935469263806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc011d84bf4490750800000000000000
+      internalID: 6271619802139267275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442a3cf06ea45b80800000000000000
+      internalID: -8406902872822111166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fde73ac0e1691f0800000000000000
+      internalID: -1038609624430878839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e6e63e109a1de70800000000000000
+      internalID: 9138270944487173698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da055f061f59aefa0800000000000000
+      internalID: -5770635108575522643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_30
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef71db53785d7d420800000000000000
+      internalID: 2654825282057082878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_31
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 816
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d435f188744200800000000000000
+      internalID: 163387986052175132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da252ab0572ffcd90800000000000000
+      internalID: -7075169905055477075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e06600a0b44cdef0800000000000000
+      internalID: -82115167809806106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2163384a0f590020800000000000000
+      internalID: 2308480781769728299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861a67b1c04d59930800000000000000
+      internalID: 4149455780157235560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_36
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dfa3b9b897c31c0800000000000000
+      internalID: -4522606285275071080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_37
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb960f63b10b8a910800000000000000
+      internalID: 1848921277967919547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_38
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc2dd1a2395e6130800000000000000
+      internalID: 3561882429295504601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_39
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 612
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345c842dcc19da20800000000000000
+      internalID: 3087530686946235444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e2d123384f421c0800000000000000
+      internalID: -4529226480909210082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b61138e25027560800000000000000
+      internalID: 7309910842501327773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9367b0c975cb91650800000000000000
+      internalID: 6204197046145742393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_43
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98878ef512b559f0800000000000000
+      internalID: -480281977710737249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac5f3139fbd22be0800000000000000
+      internalID: -1503397462268748632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_45
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e87420a270c880800000000000000
+      internalID: -8592742056890670804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_46
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd21a31bd813a2890800000000000000
+      internalID: -7482113346289134885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_47
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 408
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5483fa603dd554f0800000000000000
+      internalID: -840522555412216742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86604bb9d31781b0800000000000000
+      internalID: -5654528981269977458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b32a9d63afefa0800000000000000
+      internalID: -5769212906505520790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4439ecd6b7212d20800000000000000
+      internalID: 3251924072282010703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240f679f05299400800000000000000
+      internalID: 331336796483814435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_52
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f87e624ca76a9d80800000000000000
+      internalID: -8243162178401699600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_53
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b86faaec3af9690800000000000000
+      internalID: -7593170338696492235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_54
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe3c5560d4dc5070800000000000000
+      internalID: 8096580221624139507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_55
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 204
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a830653c9d815ace0800000000000000
+      internalID: -1394681186037136502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbae0b0cbbba63e0800000000000000
+      internalID: -2059627463254823976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779c3f729a7f8260800000000000000
+      internalID: 7102029907005052793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7ecbe2c10dd3290800000000000000
+      internalID: -7908936551130929197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balls_59
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37871fc851054270800000000000000
+      internalID: 8233988974659995454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5303bcb40362b294d988b20db7802135
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineRenderer: {instanceID: 0}
+  - edgeCollider: {instanceID: 0}
+  - rigidBody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

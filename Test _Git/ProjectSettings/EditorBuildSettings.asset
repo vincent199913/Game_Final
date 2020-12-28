@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 3d553948f4530a546b609e4b27e532cf
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Canyon.unity
+    guid: b9c820941641bb44187bc8ed304f604a
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacter.unity
+    guid: 90728af0caa82bb4e9421415a55e3b1a
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: 071aeafac0b166542a31380225a047f2
+  m_configObjects: {}

@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: 324987d0950cbbc46b772d8fbe190412
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -440232918515538711
+    second: bow clone_0
+  - first:
+      213: 1254840731776823174
+    second: bow clone_1
+  - first:
+      213: 9204914373005263103
+    second: bow clone_2
+  - first:
+      213: -8458101757370911470
+    second: bow clone_3
+  - first:
+      213: 1313749919238078622
+    second: bow clone_4
+  - first:
+      213: 3241750828263170035
+    second: bow clone_5
+  - first:
+      213: -8258661644566957575
+    second: bow clone_6
+  - first:
+      213: 5525782298981071688
+    second: bow clone_7
+  - first:
+      213: -6792647137453089722
+    second: bow clone_8
+  - first:
+      213: 527431365043140584
+    second: bow clone_9
+  - first:
+      213: 7849273105447660587
+    second: bow clone_10
+  - first:
+      213: 200114637720662980
+    second: bow clone_11
+  - first:
+      213: 4009994903972231872
+    second: bow clone_12
+  - first:
+      213: 5679031260614040308
+    second: bow clone_13
+  - first:
+      213: -3937963324056763800
+    second: bow clone_14
+  - first:
+      213: 2703735093345542260
+    second: bow clone_15
+  - first:
+      213: 2260573590542859134
+    second: bow clone_16
+  - first:
+      213: 3871785982130172301
+    second: bow clone_17
+  - first:
+      213: 7187044144530323052
+    second: bow clone_18
+  - first:
+      213: -5701063495402850864
+    second: bow clone_19
+  - first:
+      213: 2074203688610970987
+    second: bow clone_20
+  - first:
+      213: 7374445508246024454
+    second: bow clone_21
+  - first:
+      213: -6498947487229961296
+    second: bow clone_22
+  - first:
+      213: 6472564328234959007
+    second: bow clone_23
+  - first:
+      213: -6632229023881554163
+    second: bow clone_24
+  - first:
+      213: -2449533996065047722
+    second: bow clone_25
+  - first:
+      213: -6769163297488797449
+    second: bow clone_26
+  - first:
+      213: -6170032127977163329
+    second: bow clone_27
+  - first:
+      213: 4115576767376640453
+    second: bow clone_28
+  - first:
+      213: -163397331610737903
+    second: bow clone_29
+  - first:
+      213: 537149758149104482
+    second: bow clone_30
+  - first:
+      213: 316548708406263182
+    second: bow clone_31
+  - first:
+      213: -2862161286420828955
+    second: bow clone_32
+  - first:
+      213: -9173902614406318260
+    second: bow clone_33
+  - first:
+      213: -5902383675599562955
+    second: bow clone_34
+  - first:
+      213: -3962174457329043206
+    second: bow clone_35
+  - first:
+      213: 7578521311738759797
+    second: bow clone_36
+  - first:
+      213: -7004719737183998902
+    second: bow clone_37
+  - first:
+      213: 7078788172614946177
+    second: bow clone_38
+  - first:
+      213: 4717348686600254467
+    second: bow clone_39
+  - first:
+      213: 7463686255321346128
+    second: bow clone_40
+  - first:
+      213: 9119806083673608068
+    second: bow clone_41
+  - first:
+      213: 4370101183019220833
+    second: bow clone_42
+  - first:
+      213: -4413060587688194801
+    second: bow clone_43
+  - first:
+      213: -936573957032401127
+    second: bow clone_44
+  - first:
+      213: 5666293443909207608
+    second: bow clone_45
+  - first:
+      213: -7240633812039341894
+    second: bow clone_46
+  - first:
+      213: 4379447794157070695
+    second: bow clone_47
+  - first:
+      213: -1217507166205938924
+    second: bow clone_48
+  - first:
+      213: -4425107550401334149
+    second: bow clone_49
+  - first:
+      213: -4101585165017303463
+    second: bow clone_50
+  - first:
+      213: 584943478307262592
+    second: bow clone_51
+  - first:
+      213: -5776025743284197674
+    second: bow clone_52
+  - first:
+      213: -4096680040886923383
+    second: bow clone_53
+  - first:
+      213: 8668005712065408706
+    second: bow clone_54
+  - first:
+      213: -6149827438645508328
+    second: bow clone_55
+  - first:
+      213: -2154105616163054763
+    second: bow clone_56
+  - first:
+      213: 7014098132863717868
+    second: bow clone_57
+  - first:
+      213: 9218401727289237979
+    second: bow clone_58
+  - first:
+      213: -2661711788681702693
+    second: bow clone_59
+  - first:
+      213: 7432937102224447248
+    second: bow clone_60
+  - first:
+      213: -7879524059900785313
+    second: bow clone_61
+  - first:
+      213: 2361187271633408932
+    second: bow clone_62
+  - first:
+      213: -386682298857279963
+    second: bow clone_63
+  - first:
+      213: -8553581505208411835
+    second: bow clone_64
+  - first:
+      213: -241237449120053841
+    second: bow clone_65
+  - first:
+      213: -3252578039663277285
+    second: bow clone_66
+  - first:
+      213: 2827293262359155923
+    second: bow clone_67
+  - first:
+      213: 8136372126236958644
+    second: bow clone_68
+  - first:
+      213: 5565894041676077871
+    second: bow clone_69
+  - first:
+      213: -7505640821693390420
+    second: bow clone_70
+  - first:
+      213: 3399776018108868427
+    second: bow clone_71
+  - first:
+      213: 2298110578941223611
+    second: bow clone_72
+  - first:
+      213: 4095366682593728105
+    second: bow clone_73
+  - first:
+      213: 6684387097320850950
+    second: bow clone_74
+  - first:
+      213: 7486347992845990167
+    second: bow clone_75
+  - first:
+      213: 6496464642673743285
+    second: bow clone_76
+  - first:
+      213: -294329651616762863
+    second: bow clone_77
+  - first:
+      213: -495809885243497382
+    second: bow clone_78
+  - first:
+      213: -3992055212973405830
+    second: bow clone_79
+  - first:
+      213: 7776229556924352641
+    second: bow clone_80
+  - first:
+      213: -729922783409523740
+    second: bow clone_81
+  - first:
+      213: 7784919530445800729
+    second: bow clone_82
+  - first:
+      213: -4352164937083544644
+    second: bow clone_83
+  - first:
+      213: 459363283246158197
+    second: bow clone_84
+  - first:
+      213: -5782743482371780169
+    second: bow clone_85
+  - first:
+      213: 365292019063918099
+    second: bow clone_86
+  - first:
+      213: 8160359018106170950
+    second: bow clone_87
+  - first:
+      213: 1507819800560965474
+    second: bow clone_88
+  - first:
+      213: 8001759710393243876
+    second: bow clone_89
+  - first:
+      213: 4152218233813449506
+    second: bow clone_90
+  - first:
+      213: -4214288630874932119
+    second: bow clone_91
+  - first:
+      213: 751088380507830056
+    second: bow clone_92
+  - first:
+      213: 2110670428149834324
+    second: bow clone_93
+  - first:
+      213: -4216276509272570408
+    second: bow clone_94
+  - first:
+      213: 8501061145619418453
+    second: bow clone_95
+  - first:
+      213: -3181190822666228325
+    second: bow clone_96
+  - first:
+      213: 6373217908888608198
+    second: bow clone_97
+  - first:
+      213: 6189309853085466535
+    second: bow clone_98
+  - first:
+      213: 4540256285659937082
+    second: bow clone_99
+  - first:
+      213: -8725712225439927896
+    second: bow clone_100
+  - first:
+      213: 9042531529348911346
+    second: bow clone_101
+  - first:
+      213: -413689522547382544
+    second: bow clone_102
+  - first:
+      213: -5175603593007704258
+    second: bow clone_103
+  - first:
+      213: 6671234293080128728
+    second: bow clone_104
+  - first:
+      213: 5276735135549571738
+    second: bow clone_105
+  - first:
+      213: -7015517994178766499
+    second: bow clone_106
+  - first:
+      213: 6329443963265934995
+    second: bow clone_107
+  - first:
+      213: -2725338397365112941
+    second: bow clone_108
+  - first:
+      213: -41511986995517513
+    second: bow clone_109
+  - first:
+      213: -6326319195041309929
+    second: bow clone_110
+  - first:
+      213: -4479762868784500149
+    second: bow clone_111
+  - first:
+      213: 2880729264432524662
+    second: bow clone_112
+  - first:
+      213: 2562973636538678816
+    second: bow clone_113
+  - first:
+      213: 2405490916683849346
+    second: bow clone_114
+  - first:
+      213: 5557486834800176119
+    second: bow clone_115
+  - first:
+      213: -4521231257449846380
+    second: bow clone_116
+  - first:
+      213: -2170094853794192195
+    second: bow clone_117
+  - first:
+      213: -8593812554744970486
+    second: bow clone_118
+  - first:
+      213: 3418148043626647596
+    second: bow clone_119
+  - first:
+      213: -8149153642299517609
+    second: bow clone_120
+  - first:
+      213: -768210395507898055
+    second: bow clone_121
+  - first:
+      213: -3183837689496227924
+    second: bow clone_122
+  - first:
+      213: 4327940589097866084
+    second: bow clone_123
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bow clone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4a2793e7af3e9f0800000000000000
+      internalID: -440232918515538711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 657
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68faf334ff61a6110800000000000000
+      internalID: 1254840731776823174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 657
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0cdde3adc6ebf70800000000000000
+      internalID: 9204914373005263103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215bccdb349ce9a80800000000000000
+      internalID: -8458101757370911470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 438
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9042eb47906b3210800000000000000
+      internalID: 1313749919238078622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 438
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff54f8e3330dfc20800000000000000
+      internalID: 3241750828263170035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f171739df6536d80800000000000000
+      internalID: -8258661644566957575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 219
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b78ec59b58fac40800000000000000
+      internalID: 5525782298981071688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 219
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd88fda6babb1a0800000000000000
+      internalID: -6792647137453089722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7bbc43800d15700800000000000000
+      internalID: 527431365043140584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow clone_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c2c3b5d483eec60800000000000000
+      internalID: 7849273105447660587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
